@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sourceapp/funny_app/colors.dart';
+import 'package:sourceapp/funny_app/globals/colors.dart';
 import 'package:sourceapp/funny_app/views/navigation/animated_buttom/fancy_fab.dart';
 import 'package:sourceapp/funny_app/views/ui/home_view.dart';
 import 'package:sourceapp/funny_app/views/ui/hot_view.dart';
